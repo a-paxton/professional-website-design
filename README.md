@@ -1,4 +1,4 @@
-# Creating a website on GitHub Pages
+# Creating an academic website
 
 Presented as part of UConn's SIGSFLAGS Spring 2021 seminar series.
 
