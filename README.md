@@ -28,6 +28,12 @@ Many graduate student and other academic professional websites include some core
 - It can take a few minutes for GitHub to process and publish your changes after you push them. You can check the status of them by going to your `https://github.com/yourusername/yourusername.github.io/settings` and scrolling down to the "GitHub Pages" section. It'll let you know where you if it's been successfully published (if it's green) or if it's still building (if it's yellow).
 - Feel free to link to others! For example, if you reference collaborators, add a link to their webpages. Just like with scientific works, it can be a great way of acknowledging them and can help others find them.
 
+## Helpful links
+
+- academicpages rendered site and documentation: https://academicpages.github.io/
+- Cheatsheet for GitHub-flavored markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- Guide to academic websites from UC Berkeley's Townsend Center: https://townsendcenter.berkeley.edu/blog/personal-academic-webpages-how-tos-and-tips-better-site
+
 ## Some examples of websites made with academicpages
 
 - R. Stuart Geiger (creator of academicpages): https://stuartgeiger.com/
