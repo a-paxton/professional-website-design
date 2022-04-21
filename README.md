@@ -1,6 +1,6 @@
 # Creating an academic website
 
-Presented as part of UConn's SIGSFLAGS Spring 2021 seminar series.
+Presented as part of UConn's SIGSFLAGS Spring 2021 and Spring 2022 seminar series.
 
 ## Using an existing template
 
